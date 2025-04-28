@@ -70,7 +70,7 @@ The CNN model consists of:
 - Pranav
 
 ## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the [LICENSE](License.txt) file for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
