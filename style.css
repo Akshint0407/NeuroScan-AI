@@ -1,0 +1,33 @@
+/* style.css */
+.stApp {
+    background: linear-gradient(135deg, #0b0c0c 0%, #0c0c0c 100%);
+}
+
+.result-box {
+    padding: 2rem;
+    border-radius: 15px;
+    margin: 1rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.tumor {
+    background: #ffcccc;
+    border: 2px solid #ff4444;
+}
+
+.healthy {
+    background: #ccffcc;
+    border: 2px solid #44ff44;
+}
+
+.stProgress > div > div > div {
+    background-color: #4CAF50;
+}
+
+.st-bb {
+    border-color: #4a4a4a;
+}
+
+.stMarkdown h1 {
+    color: #c6b60e;
+}
