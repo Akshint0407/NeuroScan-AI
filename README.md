@@ -18,10 +18,10 @@ A deep learning-powered diagnostic tool that analyzes MRI scans to detect potent
 
 1. Clone the repository:
 ```bash
-  git clone https://github.com/Akshint0407/brain-tumor-detection.git
+  https://github.com/Akshint0407/NeuroScan-AI.git
 ```
 ```
-  cd brain-tumor-detection
+  cd NeuroScan-AI
 ```
 2. Install dependencies:
 
