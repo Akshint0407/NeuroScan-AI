@@ -117,7 +117,7 @@ with st.sidebar:
     st.markdown("""
     - **Architecture**: Custom CNN
     - **Training Data**: 4000+ MRI scans
-    - **Accuracy**: 98.2% validation accuracy
+    - **Accuracy**: 92.68% validation accuracy
     - **Last Updated**: October 2023
     """)
 
