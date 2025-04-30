@@ -47,9 +47,7 @@ streamlit run app.py
 ## 📂 Dataset
 The model was trained on the following datasets:
 
-- Brain Tumor MRI Dataset
-
-- Brain Tumor Classification (MRI)
+- Brain Tumor MRI Dataset from kaggle
 
 ## 🏗️ Model Architecture
 The CNN model consists of:
@@ -62,7 +60,7 @@ The CNN model consists of:
 
 - Dense layers for classification
 
-- Achieved 98.2% validation accuracy on test data.
+- Achieved 92.68% validation accuracy on test data.
 
 ## 👨‍💻 Developers
 - Akshint
