@@ -52,7 +52,7 @@ with col1:
 
     if uploaded_file is not None:
         image = Image.open(uploaded_file)
-        st.image(image, caption="Uploaded MRI Scan", use_column_width=True)
+        st.image(image, caption="Uploaded MRI Scan", use_container_width=True)
 
 with col2:
     st.header("Analysis Results")
@@ -62,7 +62,7 @@ with col2:
             
             if model:
                 # Preprocess image
-                img = image.resize((150, 150))
+                img = image.resize((224, 224))
                 img_array = np.array(img)
                 img_array = img_array / 255.0
                 img_array = np.expand_dims(img_array, axis=0)
